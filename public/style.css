@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+
+body{
+    font-family:'Open Sans', sans-serif;
+    background-image:url('/assets/login.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+     padding-top:10% ;
+ }
+
+form {
+    padding: 0 2rem;
+}
+
+#login .title > span {
+    font-size: .8rem
+}
