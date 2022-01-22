@@ -2,9 +2,6 @@
 
 body{
     font-family:'Open Sans', sans-serif;
-    background-image:url('/assets/login.jpg');
-    background-size:cover;
-    background-repeat: no-repeat;
 }
 .center-div{
      padding-top:10% ;
